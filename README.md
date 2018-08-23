@@ -1,7 +1,9 @@
 # \<cookie-consent\>
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/Dabolus/cookie-consent)
 [![Travis build](https://img.shields.io/travis/Dabolus/cookie-consent.svg)](https://travis-ci.org/Dabolus/cookie-consent)
-[![GitHub release](https://img.shields.io/github/release/Dabolus/cookie-consent/all.svg)](https://github.com/Dabolus/cookie-consent)
+[![GitHub release](https://img.shields.io/github/release/Dabolus/cookie-consent/all.svg)](https://github.com/Dabolus/cookie-consent)  
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/Daboluscookie-consent)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/Daboluscookie-consent.svg)](https://vaadin.com/directory/component/Daboluscookie-consent)
 
 _[Demo and API docs](https://www.webcomponents.org/element/Dabolus/cookie-consent)_
 
